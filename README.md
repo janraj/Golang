@@ -7,8 +7,14 @@
        <summary>Hello World</summary>
        This sample hellow world program which just print hello world on screen.
 
-       ```
-          [helloworld](https://github.com/janraj/Golang/blob/master/helloworld.go)
-       ```
+       		[Code](https://github.com/janraj/Golang/blob/master/helloworld.go)
+
+   </details>
+   <details>
+       <summary>Array</summary>
+       This sample hellow world program which just print hello world on screen.
+
+       		[Code](https://github.com/janraj/Golang/blob/master/array.go)
+
    </details>
 
