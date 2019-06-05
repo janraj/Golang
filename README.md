@@ -4,11 +4,11 @@
 ## **Introduction**
    This Repo contains some sample go  examples which helps to learn go
    <details>
-       <summary>Hello World</summary>
-       This sample [hellow world](https://github.com/janraj/Golang/blob/master/helloworld.go) program which just print hello world on screen.
+   <summary>Hello World</summary>
+   This sample [hellow world](https://github.com/janraj/Golang/blob/master/helloworld.go) program which just print hello world on screen.
    </details>
    <details>
-       <summary>Array</summary>
-       This sample [array]((https://github.com/janraj/Golang/blob/master/array.go)) program which just print hello world on screen.
+   <summary>Array</summary>
+   This sample [array]((https://github.com/janraj/Golang/blob/master/array.go)) program which just print hello world on screen.
    </details>
 
